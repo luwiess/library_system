@@ -31,7 +31,7 @@
                 <StackPanel>
                     <!-- Username -->
                     <StackPanel Margin="0,0,0,15">
-                        <Label Content="Username" Foreground="Black" FontFamily="Arial" />
+                        <Label Content="Username" Foreground="Black" FontFamily="Arial" FontSize="20" />
                         <Border Background="White" CornerRadius="5" Padding="10" Margin="0,0,0,10">
                             <StackPanel Orientation="Horizontal">
                                 <Image Source="/Images/user.png" Width="30" Height="30" Margin="10,0,10,0"/>
@@ -42,7 +42,7 @@
 
                     <!-- Password -->
                     <StackPanel Margin="0,0,0,15">
-                        <Label Content="Password" Foreground="Black" FontFamily="Arial" />
+                        <Label Content="Password" Foreground="Black" FontFamily="Arial" FontSize="20" />
                         <Border Background="White" CornerRadius="5" Padding="10" Margin="0,0,0,10">
                             <StackPanel Orientation="Horizontal">
                                 <Image Source="/Images/key.png" Width="30" Height="30" Margin="10,0,10,0"/>
