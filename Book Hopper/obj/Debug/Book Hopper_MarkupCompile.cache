@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-J:\VS Files\library system\Book Hopper\obj\Debug\
+D:\VS Files\Book Hopper\obj\Debug\
 Book_Hopper
 none
 false
 DEBUG;TRACE
-J:\VS Files\library system\Book Hopper\App.xaml
-2-268177722
+D:\VS Files\Book Hopper\App.xaml
+3-1202505483
 
-6861700954
-16-852065640
-MainWindow.xaml;View\LoginView.xaml;
+7-2086449909
+162109893109
+MainWindow.xaml;View\Admin_Books.xaml;View\LoginView.xaml;
 
-False
+True
 

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Book_Hopper.View"
         mc:Ignorable="d"
-        Title="LoginView" Height="920" Width="1280"
+        Title="LoginView" Height="1080" Width="1888"
         WindowStartupLocation="CenterScreen">
 
     <Grid>
@@ -14,10 +14,10 @@
         </Grid.Background>
 
         <!-- Header -->
-        <Grid Background="#B6C197" VerticalAlignment="Top" Height="60">
+        <Grid Background="#B6C197" VerticalAlignment="Top" Height="83">
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
-                <Image Source="/Images/Logo.png" Width="75" Height="50" Margin="0,0,5,0"/>
-                <TextBlock Text="BOOKHOPPER" Foreground="#931F1D" VerticalAlignment="Center" FontSize="36" FontFamily="PT Sans Narrow" FontWeight="SemiBold"/>
+                <Image Source="/Images/Logo.png" Width="70" Height="70" Margin="0,0,5,0"/>
+                <TextBlock Text="BOOKHOPPER" Foreground="#931F1D" VerticalAlignment="Center" FontSize="54" FontFamily="PT Sans Narrow" FontWeight="Bold"/>
             </StackPanel>
         </Grid>
 
