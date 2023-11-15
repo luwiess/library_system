@@ -19,5 +19,21 @@
                 <TextBlock Text="BOOKHOPPER" Foreground="#931F1D" VerticalAlignment="Center" FontSize="54" FontFamily="PT Sans Narrow" FontWeight="Bold"/>
             </StackPanel>
         </Grid>
+        
+        <!-- Admin Buttons -->
+        <Grid Background="#D5DDBC" HorizontalAlignment="Left" Width="173" Margin="0,83,0,0">
+            <Button Background="#FFFF" Content="Home"  HorizontalAlignment="Left" Margin="30,52,0,0" VerticalAlignment="Top" Width="114" Height="114" FontSize="24" Foreground="#931F1D" FontWeight="Bold"/>
+            <Button Background="#FFFF" Content="Books"  HorizontalAlignment="Left" Margin="30,246,0,0" VerticalAlignment="Top" Width="114" Height="114" FontSize="24" Foreground="#931F1D" FontWeight="Bold"/>
+            <Button Background="#FFFF" Content="Members"  HorizontalAlignment="Left" Margin="30,441,0,0" VerticalAlignment="Top" Width="114" Height="114" FontSize="24" Foreground="#931F1D" FontWeight="Bold"/>
+            <Button Background="#FFFF" Content="Logout"  HorizontalAlignment="Left" Margin="30,838,0,0" VerticalAlignment="Top" Width="114" Height="114" FontSize="24" Foreground="#931F1D" FontWeight="Bold"/>
+        </Grid>
+
+        <!-- List -->
+        <Grid Background="#FFFF" Margin="173,83,0,0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
+                <TextBlock Text="BOOK ENTRIES" Foreground="#931F1D" VerticalAlignment="Center" FontSize="54" FontFamily="PT Sans Narrow" FontWeight="Bold"/>
+            </StackPanel>
+        </Grid>
+
     </Grid>
 </Window>
